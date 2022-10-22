@@ -1,0 +1,57 @@
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: #260C1A;
+}
+
+body {
+    font-size: 100%;
+    background-color: #EDBFC6;
+}
+
+nav {
+    text-align: center;
+    font-size: 110%;
+    background-color: #5F4B42;
+}
+
+footer {
+    text-align: center;
+    font-size: 110%;
+    color :#AF8D86;
+}
+
+section {
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Courier new';
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+a:link {
+    font-weight: bold;
+    color: white;
+}
+
+a:visited {
+    background-color: #5F4B42;
+    color: #AF8D86;
+}
+
+a:hover {
+    background-color: #AF8D86;
+    color: #260C1A;
+}
+
+img {
+    border: #260C1A solid;
+    padding: 0.2em;
+    margin: 0rem;
+}
